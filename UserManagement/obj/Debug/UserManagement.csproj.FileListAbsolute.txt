@@ -1,0 +1,155 @@
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\bin\Debug\UserManagement.exe.config
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\bin\Debug\UserManagement.exe
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\bin\Debug\UserManagement.pdb
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\bin\Debug\EntityFramework.dll
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\bin\Debug\MaterialDesignColors.dll
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\bin\Debug\EntityFramework.xml
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\obj\Debug\Views\Home.g.cs
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\obj\Debug\App.g.cs
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\obj\Debug\UserManagement_MarkupCompile.cache
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\obj\Debug\UserManagement_MarkupCompile.lref
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\obj\Debug\Views\Home.baml
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\obj\Debug\UserManagement.g.resources
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\obj\Debug\UserManagement.Properties.Resources.resources
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\obj\Debug\UserManagement.csproj.GenerateResource.cache
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\obj\Debug\UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\obj\Debug\UserManagement.csproj.CopyComplete
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\obj\Debug\UserManagement.exe
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\obj\Debug\UserManagement.pdb
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\obj\Debug\UserManagement.csprojAssemblyReference.cache
+C:\Users\Heri Wardana Ginting\source\repos\UserManagement\UserManagement\obj\Debug\UserManagement.Migrations.addingmodel.resources
+I:\METRODATA\Github\User-Management\UserManagement\bin\Debug\UserManagement.exe.config
+I:\METRODATA\Github\User-Management\UserManagement\bin\Debug\UserManagement.exe
+I:\METRODATA\Github\User-Management\UserManagement\bin\Debug\UserManagement.pdb
+I:\METRODATA\Github\User-Management\UserManagement\bin\Debug\EntityFramework.dll
+I:\METRODATA\Github\User-Management\UserManagement\bin\Debug\EntityFramework.SqlServer.dll
+I:\METRODATA\Github\User-Management\UserManagement\bin\Debug\MaterialDesignColors.dll
+I:\METRODATA\Github\User-Management\UserManagement\bin\Debug\MaterialDesignThemes.Wpf.dll
+I:\METRODATA\Github\User-Management\UserManagement\bin\Debug\EntityFramework.xml
+I:\METRODATA\Github\User-Management\UserManagement\bin\Debug\EntityFramework.SqlServer.xml
+I:\METRODATA\Github\User-Management\UserManagement\bin\Debug\MaterialDesignColors.pdb
+I:\METRODATA\Github\User-Management\UserManagement\bin\Debug\MaterialDesignThemes.Wpf.pdb
+I:\METRODATA\Github\User-Management\UserManagement\bin\Debug\MaterialDesignThemes.Wpf.xml
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\Views\Home.g.cs
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\Views\Login.g.cs
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\App.g.cs
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\UserManagement_MarkupCompile.cache
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\UserManagement_MarkupCompile.lref
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\App.baml
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\Views\Home.baml
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\Views\Login.baml
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\UserManagement.g.resources
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\UserManagement.Migrations.addingdatabase.resources
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\UserManagement.Properties.Resources.resources
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\UserManagement.csproj.GenerateResource.cache
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\UserManagement.csproj.CoreCompileInputs.cache
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\UserManagement.csproj.CopyComplete
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\UserManagement.exe
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\UserManagement.pdb
+I:\METRODATA\Github\User-Management\UserManagement\obj\Debug\UserManagement.csprojAssemblyReference.cache
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\bin\Debug\UserManagement.exe.config
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\bin\Debug\UserManagement.exe
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\bin\Debug\UserManagement.pdb
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\bin\Debug\EntityFramework.dll
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\bin\Debug\EntityFramework.SqlServer.dll
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\bin\Debug\MaterialDesignColors.dll
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\bin\Debug\MaterialDesignThemes.Wpf.dll
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\bin\Debug\EntityFramework.xml
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\bin\Debug\EntityFramework.SqlServer.xml
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\bin\Debug\MaterialDesignColors.pdb
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\bin\Debug\MaterialDesignThemes.Wpf.pdb
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\bin\Debug\MaterialDesignThemes.Wpf.xml
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\UserManagement.csprojAssemblyReference.cache
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\EditEmployee.g.cs
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\ForgotPassword.g.cs
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\Home.g.cs
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\Login.g.cs
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\ViewEmployee.g.cs
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\App.g.cs
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\UserManagement_MarkupCompile.cache
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\UserManagement_MarkupCompile.lref
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\App.baml
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\EditEmployee.baml
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\ForgotPassword.baml
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\Home.baml
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\Login.baml
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\ViewEmployee.baml
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\UserManagement.g.resources
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\UserManagement.Migrations.addingUserManagement.resources
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\UserManagement.Properties.Resources.resources
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\UserManagement.csproj.GenerateResource.cache
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\UserManagement.csproj.CoreCompileInputs.cache
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\UserManagement.csproj.CopyComplete
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\UserManagement.exe
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\UserManagement.pdb
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\ChangePassword.g.cs
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\EmployeeActiveStatus.g.cs
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\ManageApplicationEmployee.g.cs
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\ManageRole.g.cs
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\VerificationCode.g.cs
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\ChangePassword.baml
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\EmployeeActiveStatus.baml
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\ManageApplicationEmployee.baml
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\ManageRole.baml
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\VerificationCode.baml
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\Employee.g.cs
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\Employee.baml
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\AddEmployee.g.cs
+I:\METRODATA\Github\Project\User-Management-WPF\UserManagement\obj\Debug\Views\AddEmployee.baml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\bin\Debug\UserManagement.exe.config
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\bin\Debug\UserManagement.exe
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\bin\Debug\UserManagement.pdb
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\bin\Debug\EntityFramework.dll
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\bin\Debug\EntityFramework.SqlServer.dll
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\bin\Debug\MaterialDesignColors.dll
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\bin\Debug\EntityFramework.xml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\bin\Debug\EntityFramework.SqlServer.xml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\bin\Debug\MaterialDesignColors.pdb
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\UserManagement.csprojAssemblyReference.cache
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\AddEmployee.g.cs
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\ChangePassword.g.cs
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\EditEmployee.g.cs
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\EmployeeActiveStatus.g.cs
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\ForgotPassword.g.cs
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\Home.g.cs
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\Login.g.cs
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\ManageApplicationEmployee.g.cs
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\Employee.g.cs
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\ManageRole.g.cs
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\VerificationCode.g.cs
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\ViewEmployee.g.cs
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\App.g.cs
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\UserManagement_MarkupCompile.cache
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\UserManagement_MarkupCompile.lref
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\App.baml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\AddEmployee.baml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\ChangePassword.baml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\EditEmployee.baml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\EmployeeActiveStatus.baml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\ForgotPassword.baml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\Home.baml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\Login.baml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\ManageApplicationEmployee.baml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\Employee.baml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\ManageRole.baml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\VerificationCode.baml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\Views\ViewEmployee.baml
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\UserManagement.g.resources
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\UserManagement.Migrations.addingUserManagement.resources
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\UserManagement.Properties.Resources.resources
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\UserManagement.csproj.GenerateResource.cache
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\UserManagement.csproj.CoreCompileInputs.cache
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\UserManagement.csproj.CopyComplete
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\UserManagement.exe
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\UserManagement.pdb
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\UserManagement.Migrations.addingdata.resources
+E:\BackUp Project\New folder\User-Management-WPF\UserManagement\obj\Debug\UserManagement.Migrations.addingposition.resources
